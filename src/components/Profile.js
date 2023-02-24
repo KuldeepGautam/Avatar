@@ -5,10 +5,10 @@ import Avatar from "./Avatar";
 const data = [
   { _id: 1, image: "/assets/profileImg1.png", name: "Stephen Paul" },
   { _id: 2, name: "Nancy Paul" },
-  { _id: 3, image: "/assets/profileImg1.png", name: "Mercy Metiloa" },
+  { _id: 3, image: "/assets/profileImg2.png", name: "Mercy Metiloa" },
   { _id: 4, image: "/assets/profileImg1.png", name: "Meena Jackson" },
   { _id: 5, image: "/assets/profileImg1.png", name: "Stephen Jack" },
-  { _id: 6, image: "/assets/profileImg1.png", name: "Leona Johnson" },
+  { _id: 6, image: "/assets/profileImg2.png", name: "Leona Johnson" },
 ];
 
 const Profile = () => {

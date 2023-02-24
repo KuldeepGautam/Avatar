@@ -3,6 +3,7 @@ import React, { useState } from "react";
 function Avatar({ image, name }) {
   // Like can also be passed as props when API comes in picture.
   const [isLiked, setIsLiked] = useState(false);
+
   return (
     <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
       <div className="avatar-section">
